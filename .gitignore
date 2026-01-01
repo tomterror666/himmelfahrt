@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/.vs/himmelfahrt/FileContentIndex/084cbe7b-2e32-4433-bd3a-5f1486b94d7e.vsidx
+/.vs/himmelfahrt/FileContentIndex/0e96e05a-91cc-4d3e-87b0-683f89d6b0d4.vsidx
+/.vs/himmelfahrt/FileContentIndex/7d2a9f3f-d2bf-4725-b763-8b698e32a05e.vsidx
+/.vs/himmelfahrt/FileContentIndex/a4c248d3-8e91-4625-b3de-e570ed622a85.vsidx
+/.vs/himmelfahrt/FileContentIndex/be1c1297-8482-4b5a-81ea-77b540326e91.vsidx
+/.vs/himmelfahrt/FileContentIndex/17479246-9740-45b0-80cf-2e142131b5d2.vsidx
+*.vsidx
