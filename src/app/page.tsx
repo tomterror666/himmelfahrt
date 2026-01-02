@@ -1,6 +1,7 @@
 "use client"
 
 import {useEffect} from "react";
+import { StyledPageBackground } from "./page.styled";
 
 export default function Home() {
     useEffect(() => {
@@ -17,8 +18,8 @@ export default function Home() {
   }, []);
 
   return (
-    <div style={{ backgroundColor: "#0000ff20", textAlign: "center", padding: "25%" }}>
-      <a href="./map"><h1 style={{ fontFamily: "Chilanka", fontSize: 88 }}>Himmelfahrt 2026</h1></a>
-    </div>
+    <StyledPageBackground>
+      <a href="./map"><h1 style={{ fontFamily: "Chilanka", fontSize: 48 }}>Die Himmelfahrten 2004 - 2025</h1></a>
+    </StyledPageBackground>
   )
 }
